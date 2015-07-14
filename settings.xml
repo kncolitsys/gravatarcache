@@ -1,0 +1,11 @@
+<settings>
+	<profile name="default">
+		<cachedir>cache</cachedir>
+		<timeout>5</timeout>
+		<cachetimeout>120</cachetimeout>
+		<rating>PG</rating>
+		<size>40</size>
+		<border></border>
+		<default>http://www.blogcfc.com/images/gravatar.gif</default>
+	</profile>
+</settings>
